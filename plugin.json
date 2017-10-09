@@ -1,0 +1,22 @@
+{
+  "version": "0.6.7",
+  "name": "HelloWorld",
+  "marketplaceName": {
+    "de": "Shopify.com",
+    "en": "Shopify.com"
+  },
+  "description": "Plentymarkets integration for the Shopify marketplace",
+  "namespace": "HelloWorld",
+  "author": "plentymarkets GmbH",
+  "type": "general",
+  "serviceProvider": "HelloWorld\\Providers\\HelloWorldServiceProvider",
+  "license": "free for commercial use",
+  "price": 0.00,
+  "shortDescription": {
+    "de": "Plugin zur Anbindung des Shopify-Shopsystems. Um Shopify in Verbindung mit plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Shopify nötig.",
+    "en": "Plugin for the integration of the Shopify shop system. A Shopify seller account is mandatory for setting up Shopify in plentymarkets."
+  },
+  "authorIcon": "",
+  "pluginIcon": "",
+  "email": "sales@plentymarkets.com"
+}

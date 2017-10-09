@@ -14,6 +14,6 @@ class ContentController extends Controller
      */
     public function sayHello(Twig $twig):string
     {
-        return json_encode(["da" => "da, apiul dada"]);
+        return json_encode(["da" => "da, apiul dadaa viata mea"]);
     }
 }
